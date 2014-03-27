@@ -29,6 +29,8 @@ Copy `MSLazyImageView.h/.m` classes to your project
 
 ```
 
+![alt text](https://github.com/kwylez/MSLazyImageView/raw/master/Assets/example.gif "MSLazyImageView Example")
+
 ### Customizations
 
 You can set the `progressViewStrokeColor`, `progressViewTintColor` and `progressViewFillColor` colors via [UIAppearance](https://developer.apple.com/library/ios/documentation/uikit/reference/UIAppearance_Protocol/Reference/Reference.html)
